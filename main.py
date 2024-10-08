@@ -67,7 +67,7 @@ def isscissor():
 	button_disable()
 
 
-Label(root, text="Rock Paper Scissor", font="normal 20 bold", fg="blue").pack(pady=20)
+Label(root, text="Rock Paper Scissor", font="normal 20 bold", fg="pink").pack(pady=20)
 
 frame = Frame(root)
 frame.pack()
